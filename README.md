@@ -82,8 +82,8 @@ If you witness any violations of these terms and rules, please report them to th
 By using Openingsdex, you agree to abide by these terms and rules. Failure to comply with these rules may result in warnings, temporary or permanent bans, or other appropriate actions determined by the bot administrators and moderators. Remember that Openingsdex is for entertainment purposes.
 
 # Contesting a sanction
-If you want a re-evaluation of your case, you may do so by submitting a ticket in our [Discord Server](placeholder) (#⁠tickets channel) You must follow these rules:
-
+If you want a re-evaluation of your case, you may do so by submitting a ticket in our [Discord Server](https://discord.gg/t28tNp5bpp) (#⁠tickets channel) You must follow these rules:
+placehol
 Rules of sending a ticket:
 
 Do not send an appeal twice.
@@ -97,7 +97,7 @@ The Openingsdex moderation team has the right to accept, deny or ignore any requ
 # Contact 
 You may contact us using the following means:
 
-Our [Discord Server](placeholder) through tickets (#tickets channel)
+Our [Discord Server](https://discord.gg/t28tNp5bpp) through tickets (#tickets channel)
 
 If you wish to contact the owner only, you can send a DM to sunnysledgertds.
 
@@ -168,5 +168,5 @@ You may request a copy of your personal data. To request one, use /player export
 
 For the deletion of your personal data, use /player delete.
 
-You may contact sunnysledgertds for more details. (on Discord, you can find me on the [Discord Server](placeholder))
+You may contact sunnysledgertds for more details. (on Discord, you can find me on the [Discord Server](https://discord.gg/t28tNp5bpp)
 
