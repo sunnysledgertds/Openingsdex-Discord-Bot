@@ -159,7 +159,7 @@ Interaction between the bot and the database server is exclusively local using [
 # Access to the data
 The only people allowed to access the data is sunnysledgertds.
 
-The Eurasiadex moderation teams do not have access to the data.
+The Openingsdex moderation teams do not have access to the data.
 
 The data may never be made available to the public, and its access must be secured accordingly.
 
